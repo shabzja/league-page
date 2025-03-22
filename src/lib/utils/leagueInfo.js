@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "1180993279822659584"; // your league ID
-export const leagueName = "Late Interception Keeper League"; // your league name
+export const leagueID = "1182172973762084864"; // your league ID
+export const leagueName = "🔥Dragon’s Lair🔥"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
